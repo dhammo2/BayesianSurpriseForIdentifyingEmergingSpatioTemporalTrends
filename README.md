@@ -3,6 +3,8 @@ R Shiny application that takes a list of events with a spatial and temporal comp
 
 Application Link: https://forwardthinking.shinyapps.io/bayesiansurpriseforidentifyingemergingtrends/
 
+Processed and Original Data available at: https://osf.io/8g7ny/?view_only=b190d0b468b34d11af93ec3ccb83dbe0
+
 TO BE UPLOADED:
 - Application Overview
 - Information and Code on Dataset Processing
